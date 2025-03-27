@@ -11,9 +11,9 @@ This is a professional portfolio website showcasing my skills, projects, and con
 - ✅ Mobile-friendly responsive design  
 
 ## How to Run the Project 🖥️  
-1. Clone this repository:  
-2.git clone https://github.com/your-username/portfolio-website.git
-3. Open the **index.html** file in a browser.
+1. Clone this repository:
+ git clone https://github.com/your-username/portfolio-website.git
+2. Open the **index.html** file in a browser.
    
 ## Tech Stack 🛠️  
 - HTML, CSS, JavaScript  
